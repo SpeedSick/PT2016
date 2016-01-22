@@ -1,0 +1,5 @@
+c:\users\nick\documents\visual studio 2015\Projects\Second Task\Second Task\bin\Debug\Second Task.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\Second Task\Second Task\bin\Debug\Second Task.exe
+c:\users\nick\documents\visual studio 2015\Projects\Second Task\Second Task\bin\Debug\Second Task.pdb
+c:\users\nick\documents\visual studio 2015\Projects\Second Task\Second Task\obj\Debug\Second Task.exe
+c:\users\nick\documents\visual studio 2015\Projects\Second Task\Second Task\obj\Debug\Second Task.pdb
