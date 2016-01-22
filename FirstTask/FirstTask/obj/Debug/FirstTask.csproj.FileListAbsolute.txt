@@ -1,0 +1,5 @@
+c:\users\nick\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+c:\users\nick\documents\visual studio 2015\Projects\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+c:\users\nick\documents\visual studio 2015\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+c:\users\nick\documents\visual studio 2015\Projects\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
