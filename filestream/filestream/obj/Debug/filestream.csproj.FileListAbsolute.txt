@@ -1,0 +1,6 @@
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\bin\Debug\filestream.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\bin\Debug\filestream.exe
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\bin\Debug\filestream.pdb
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\obj\Debug\filestream.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\obj\Debug\filestream.exe
+c:\users\nick\documents\visual studio 2015\Projects\filestream\filestream\obj\Debug\filestream.pdb
