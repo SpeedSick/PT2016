@@ -1,0 +1,6 @@
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\bin\Debug\Snaake.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\bin\Debug\Snaake.exe
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\bin\Debug\Snaake.pdb
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\obj\Debug\Snaake.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\obj\Debug\Snaake.exe
+c:\users\nick\documents\visual studio 2015\Projects\Snaake\Snaake\obj\Debug\Snaake.pdb
