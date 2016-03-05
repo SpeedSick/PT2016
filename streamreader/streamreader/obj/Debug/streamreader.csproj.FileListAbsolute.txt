@@ -1,0 +1,5 @@
+c:\users\nick\documents\visual studio 2015\Projects\streamreader\streamreader\bin\Debug\streamreader.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\streamreader\streamreader\bin\Debug\streamreader.exe
+c:\users\nick\documents\visual studio 2015\Projects\streamreader\streamreader\bin\Debug\streamreader.pdb
+c:\users\nick\documents\visual studio 2015\Projects\streamreader\streamreader\obj\Debug\streamreader.exe
+c:\users\nick\documents\visual studio 2015\Projects\streamreader\streamreader\obj\Debug\streamreader.pdb

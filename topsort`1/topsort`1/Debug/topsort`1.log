@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(16): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(23): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note:  см. объявление "freopen"
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(24): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note:  см. объявление "freopen"
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note:  см. объявление "scanf"
+c:\users\nick\documents\visual studio 2015\projects\topsort`1\topsort`1\source.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note:  см. объявление "scanf"
+  topsort`1.vcxproj -> c:\users\nick\documents\visual studio 2015\Projects\topsort`1\Debug\topsort`1.exe

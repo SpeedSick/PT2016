@@ -1,0 +1,8 @@
+﻿  vkoshp1.cpp
+c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(1): warning C4627: #include <iostream>: пропущен при поиске использования предкомпилированного заголовка
+  c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(1): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(2): warning C4627: #include <cstdio>: пропущен при поиске использования предкомпилированного заголовка
+  c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(2): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(3): warning C4627: #include <algorithm>: пропущен при поиске использования предкомпилированного заголовка
+  c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(3): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\nick\documents\visual studio 2015\projects\vkoshp1\vkoshp1\vkoshp1.cpp(24): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

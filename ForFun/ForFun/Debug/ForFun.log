@@ -1,0 +1,4 @@
+﻿  ForFun.cpp
+c:\users\nick\documents\visual studio 2015\projects\forfun\forfun\forfun.cpp(2): warning C4627: #include <cstdio>: пропущен при поиске использования предкомпилированного заголовка
+  c:\users\nick\documents\visual studio 2015\projects\forfun\forfun\forfun.cpp(2): note: Добавление директивы в "stdafx.h" или перестройка предкомпилированного заголовка
+c:\users\nick\documents\visual studio 2015\projects\forfun\forfun\forfun.cpp(10): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

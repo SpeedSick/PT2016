@@ -1,0 +1,5 @@
+c:\users\nick\documents\visual studio 2015\Projects\primeforlab2\primeforlab2\bin\Debug\primeforlab2.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\primeforlab2\primeforlab2\bin\Debug\primeforlab2.exe
+c:\users\nick\documents\visual studio 2015\Projects\primeforlab2\primeforlab2\bin\Debug\primeforlab2.pdb
+c:\users\nick\documents\visual studio 2015\Projects\primeforlab2\primeforlab2\obj\Debug\primeforlab2.exe
+c:\users\nick\documents\visual studio 2015\Projects\primeforlab2\primeforlab2\obj\Debug\primeforlab2.pdb

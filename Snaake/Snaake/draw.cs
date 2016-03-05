@@ -11,23 +11,41 @@ namespace Snaake
         public snake dragon;
         public wall Wall;
         public food Food;
-        Draw()
+        public Draw()
         {
             dragon = new snake();
             Wall = new wall();
             Food = new food();
         }
-        Draw(snake a, wall b, food c)
+        public Draw(snake a, wall b, food c)
         {
-            dragon = a, Wall = b, Food = c;
+            dragon = a; Wall = b; Food = c;
         }
-        public static void out()
+        public void Print()
         {
-            Console.BackgroundColor = ConsoleColor.DarkBlue;
-            for(int i = 0; i < dragon.Body.Count; ++i)
+            Console.Clear();
+          //  Console.BackgroundColor = ConsoleColor.DarkCyan;
+          //  Console.WriteLine(dragon.body.Count);
+
+            for (int i = 0; i < dragon.body.Count; ++i)
             {
-            
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.SetCursorPosition(dragon.body[i].x, dragon.body[i].y);
+                Console.Write('*');
+            }
+            for(int i = 0; i < Wall.body.Count; ++i)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.SetCursorPosition(Wall.body[i].x, Wall.body[i].y);
+                Console.Write('#');
+            }
+            for(int i = 0; i < Food.body.Count; ++i)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.SetCursorPosition(Food.body[i].x, Food.body[i].y);
+                Console.Write('@');
             }
         }
+        
     }
 }

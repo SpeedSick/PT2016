@@ -1,0 +1,5 @@
+c:\users\nick\documents\visual studio 2015\Projects\minmaxfile\minmaxfile\bin\Debug\minmaxfile.exe.config
+c:\users\nick\documents\visual studio 2015\Projects\minmaxfile\minmaxfile\bin\Debug\minmaxfile.exe
+c:\users\nick\documents\visual studio 2015\Projects\minmaxfile\minmaxfile\bin\Debug\minmaxfile.pdb
+c:\users\nick\documents\visual studio 2015\Projects\minmaxfile\minmaxfile\obj\Debug\minmaxfile.exe
+c:\users\nick\documents\visual studio 2015\Projects\minmaxfile\minmaxfile\obj\Debug\minmaxfile.pdb
